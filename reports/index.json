@@ -1,0 +1,31 @@
+{
+  "colorPalette": "violet-purple",
+  "glassSurfaces": true,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260627-095949-7m39",
+      "title": "Kingofmesmers, T B E Jayce",
+      "commanders": [
+        "Kingofmesmers",
+        "T B E Jayce"
+      ],
+      "dateStart": "2026-06-27T13:59:49.000Z",
+      "dateEnd": "2026-06-27T14:26:05.000Z",
+      "dateLabel": "6/27/2026, 9:59:49 AM - 6/27/2026, 10:26:05 AM",
+      "url": "https://JayceShikari.github.io/ArcDPSLogs/?report=20260627-095949-7m39",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 34,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 24
+      }
+    }
+  ]
+}
