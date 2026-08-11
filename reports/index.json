@@ -4,6 +4,28 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260810-213049-u4az",
+      "title": "T B E J A Y C E",
+      "commanders": [
+        "T B E J A Y C E"
+      ],
+      "guild": {
+        "id": "649F7D54-FBA1-E511-80D4-E4115BDFCB5D",
+        "name": "Rélentless Assault",
+        "tag": "RA"
+      },
+      "dateStart": "2026-08-11T01:30:49.000Z",
+      "dateEnd": "2026-08-11T01:32:34.000Z",
+      "dateLabel": "8/10/2026, 9:30:49 PM - 8/10/2026, 9:32:34 PM",
+      "url": "https://JayceShikari.github.io/ArcDPSLogs/?report=20260810-213049-u4az",
+      "summary": {
+        "borderlandsPct": null,
+        "mapSlices": [],
+        "avgSquadSize": 0,
+        "avgEnemySize": 0
+      }
+    },
+    {
       "id": "20260627-095949-7m39",
       "title": "Kingofmesmers, T B E Jayce",
       "commanders": [
