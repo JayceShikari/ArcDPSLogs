@@ -4,6 +4,22 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260817-215723-kalh",
+      "title": "Unknown Commander",
+      "commanders": [],
+      "guild": null,
+      "dateStart": "2026-08-18T01:57:23.988Z",
+      "dateEnd": "2026-08-18T01:57:23.988Z",
+      "dateLabel": "8/17/2026, 9:57:23 PM - 8/17/2026, 9:57:23 PM",
+      "url": "https://JayceShikari.github.io/ArcDPSLogs/?report=20260817-215723-kalh",
+      "summary": {
+        "borderlandsPct": null,
+        "mapSlices": [],
+        "avgSquadSize": 0,
+        "avgEnemySize": 0
+      }
+    },
+    {
       "id": "20260810-213049-orly",
       "title": "T B E J A Y C E",
       "commanders": [
