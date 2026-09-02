@@ -4,6 +4,22 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260901-215623-me84",
+      "title": "Unknown Commander",
+      "commanders": [],
+      "guild": null,
+      "dateStart": "2026-09-02T01:56:23.992Z",
+      "dateEnd": "2026-09-02T01:56:23.992Z",
+      "dateLabel": "9/1/2026, 9:56:23 PM - 9/1/2026, 9:56:23 PM",
+      "url": "https://JayceShikari.github.io/ArcDPSLogs/?report=20260901-215623-me84",
+      "summary": {
+        "borderlandsPct": null,
+        "mapSlices": [],
+        "avgSquadSize": 0,
+        "avgEnemySize": 0
+      }
+    },
+    {
       "id": "20260824-213239-yjh7",
       "title": "Jayce Dreambreaker",
       "commanders": [
