@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260901-210244-i2a9",
+      "title": "Jayce Dreambreaker",
+      "commanders": [
+        "Jayce Dreambreaker"
+      ],
+      "guild": {
+        "id": "649F7D54-FBA1-E511-80D4-E4115BDFCB5D",
+        "name": "Rélentless Assault",
+        "tag": "RA"
+      },
+      "dateStart": "2026-09-02T01:02:44.000Z",
+      "dateEnd": "2026-09-02T01:54:05.324Z",
+      "dateLabel": "9/1/2026, 9:02:44 PM - 9/1/2026, 9:54:05 PM",
+      "url": "https://JayceShikari.github.io/ArcDPSLogs/?report=20260901-210244-i2a9",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 29,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 9,
+        "avgEnemySize": 13
+      }
+    },
+    {
       "id": "20260901-215736-798b",
       "title": "Unknown Commander",
       "commanders": [],
