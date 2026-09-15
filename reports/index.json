@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260914-213254-gqd5",
+      "title": "T B E J A Y C E",
+      "commanders": [
+        "T B E J A Y C E"
+      ],
+      "guild": {
+        "id": "649F7D54-FBA1-E511-80D4-E4115BDFCB5D",
+        "name": "Rélentless Assault",
+        "tag": "RA"
+      },
+      "dateStart": "2026-09-15T01:32:54.000Z",
+      "dateEnd": "2026-09-15T01:58:30.026Z",
+      "dateLabel": "9/14/2026, 9:32:54 PM - 9/14/2026, 9:58:30 PM",
+      "url": "https://JayceShikari.github.io/ArcDPSLogs/?report=20260914-213254-gqd5",
+      "summary": {
+        "borderlandsPct": 0.6122448979591837,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 30,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 19,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 19
+      }
+    },
+    {
       "id": "20260908-212920-pfhb",
       "title": "Jayce Dreambreaker",
       "commanders": [
