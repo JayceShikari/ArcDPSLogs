@@ -5,9 +5,43 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.6"
+    "version": "3.22.9"
   },
   "entries": [
+    {
+      "id": "20261020-205848-hc63",
+      "title": "T B E J A Y C E",
+      "commanders": [
+        "T B E J A Y C E"
+      ],
+      "guild": {
+        "id": "649F7D54-FBA1-E511-80D4-E4115BDFCB5D",
+        "name": "Rélentless Assault",
+        "tag": "RA"
+      },
+      "dateStart": "2026-10-21T00:58:48.000Z",
+      "dateEnd": "2026-10-21T01:47:54.770Z",
+      "dateLabel": "10/20/2026, 8:58:48 PM - 10/20/2026, 9:47:54 PM",
+      "url": "https://JayceShikari.github.io/ArcDPSLogs/?report=20261020-205848-hc63",
+      "publishedBy": "JayceShikari",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 20,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 6,
+        "avgEnemySize": 19
+      }
+    },
     {
       "id": "20261013-212011-uwuu",
       "title": "T B E J A Y C E",
