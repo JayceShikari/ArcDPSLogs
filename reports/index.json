@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261124-210949-kc6i",
+      "title": "T B E J A Y C E",
+      "commanders": [
+        "T B E J A Y C E"
+      ],
+      "guild": {
+        "id": "1A3974B7-1943-EF11-81AC-95DFE50946EB",
+        "name": "Forgot To Grab",
+        "tag": "Supp"
+      },
+      "dateStart": "2026-11-25T02:09:49.000Z",
+      "dateEnd": "2026-11-25T02:39:45.566Z",
+      "dateLabel": "11/24/2026, 9:09:49 PM - 11/24/2026, 9:39:45 PM",
+      "url": "https://JayceShikari.github.io/ArcDPSLogs/?report=20261124-210949-kc6i",
+      "publishedBy": "JayceShikari",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 12,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 17
+      }
+    },
+    {
       "id": "20261123-200027-mz25",
       "title": "T B E J A Y C E",
       "commanders": [
